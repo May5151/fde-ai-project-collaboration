@@ -36,9 +36,11 @@
 
 [提交 FDE 合作申请](https://github.com/May5151/fde-ai-project-collaboration/issues/new/choose)
 
-## FDE 国内交流
+## FDE 技术与项目交流群
 
-欢迎加入 FDE 交流微信群，讨论国内企业 AI 落地、RAG、Agent、部署和交付合作。二维码有效期至 2026 年 9 月 18 日，过期后请以仓库最新二维码为准。
+欢迎中外技术人员加入 FDE 技术与项目交流群，讨论中国企业 AI 落地、RAG、Agent、部署和交付合作。群内支持中文和英文交流，欢迎外国朋友、海外技术伙伴以及有中国项目经验的工程师加入。二维码有效期至 2026 年 9 月 18 日，过期后请以仓库最新二维码为准。
+
+Welcome to the FDE technology and project collaboration group. International engineers are welcome. We discuss enterprise AI deployment in China, RAG, agents, implementation, and delivery projects. Chinese and English are both welcome.
 
 ![FDE 交流微信群二维码](fde-group-qr.jpg)
 
