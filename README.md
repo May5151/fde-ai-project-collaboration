@@ -36,6 +36,12 @@
 
 [提交 FDE 合作申请](https://github.com/May5151/fde-ai-project-collaboration/issues/new/choose)
 
+## FDE 国内交流
+
+欢迎加入 FDE 交流微信群，讨论国内企业 AI 落地、RAG、Agent、部署和交付合作。二维码有效期至 2026 年 9 月 18 日，过期后请以仓库最新二维码为准。
+
+![FDE 交流微信群二维码](fde-group-qr.jpg)
+
 ## 流程
 
 1. 公开资料和作品初筛

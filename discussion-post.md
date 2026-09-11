@@ -15,3 +15,9 @@
 ## 如何申请
 
 请通过 [FDE 合作申请 Issue 模板](https://github.com/May5151/fde-ai-project-collaboration/issues/new/choose) 提交公开版技术与交付背景。初步审核通过后，再通过私密渠道沟通简历、报价和具体项目。
+
+## 加入国内 FDE 交流微信群
+
+欢迎加入 FDE 交流微信群，讨论国内企业 AI 落地、RAG、Agent、部署和交付合作。二维码有效期至 **2026 年 9 月 18 日**，过期后请以仓库最新二维码为准。
+
+![FDE 交流微信群二维码](fde-group-qr.jpg)
